@@ -1,0 +1,525 @@
+******** Week  1846 almanac for BEI-G1 ********
+ID:                         174
+Health:                     000
+Eccentricity:               0.000296
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.028623
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           6493.363720
+Right Ascen at TOA(rad):    0.221540
+Argument of Perigee(rad):   2.862534
+Mean Anom(rad):             9.957508
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-G3 ********
+ID:                         175
+Health:                     000
+Eccentricity:               0.000493
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.026974
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           6493.373196
+Right Ascen at TOA(rad):    0.532844
+Argument of Perigee(rad):   5.311288
+Mean Anom(rad):             12.966406
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-G4 ********
+ID:                         176
+Health:                     000
+Eccentricity:               0.000550
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.013015
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           6493.415633
+Right Ascen at TOA(rad):    0.702495
+Argument of Perigee(rad):   2.783903
+Mean Anom(rad):             16.187179
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-G5 ********
+ID:                         177
+Health:                     000
+Eccentricity:               0.000089
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.019630
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           6493.540663
+Right Ascen at TOA(rad):    0.511842
+Argument of Perigee(rad):   1.687421
+Mean Anom(rad):             21.990067
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-G6 ********
+ID:                         178
+Health:                     000
+Eccentricity:               0.000115
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.003054
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           6493.421267
+Right Ascen at TOA(rad):    0.711511
+Argument of Perigee(rad):   0.578842
+Mean Anom(rad):             16.987720
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-IGSO3 ********
+ID:                         179
+Health:                     000
+Eccentricity:               0.002473
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.993420
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           6493.619438
+Right Ascen at TOA(rad):    1.410858
+Argument of Perigee(rad):   3.382701
+Mean Anom(rad):             20.465277
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-IGSO4 ********
+ID:                         180
+Health:                     000
+Eccentricity:               0.003654
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.953377
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           6493.210494
+Right Ascen at TOA(rad):    3.546439
+Argument of Perigee(rad):   3.605039
+Mean Anom(rad):             17.677617
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-IGSO5 ********
+ID:                         181
+Health:                     000
+Eccentricity:               0.003039
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.944413
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           6493.652382
+Right Ascen at TOA(rad):    5.574791
+Argument of Perigee(rad):   3.448814
+Mean Anom(rad):             15.782368
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-M3 ********
+ID:                         182
+Health:                     000
+Eccentricity:               0.002261
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.972895
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5282.608627
+Right Ascen at TOA(rad):    1.386334
+Argument of Perigee(rad):   3.693213
+Mean Anom(rad):             28.825068
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-MX1 ********
+ID:                         183
+Health:                     000
+Eccentricity:               0.002261
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.972895
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5282.608627
+Right Ascen at TOA(rad):    1.386334
+Argument of Perigee(rad):   3.693213
+Mean Anom(rad):             29.523200
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-MX2 ********
+ID:                         184
+Health:                     000
+Eccentricity:               0.002261
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.972895
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5282.608627
+Right Ascen at TOA(rad):    1.386334
+Argument of Perigee(rad):   3.693213
+Mean Anom(rad):             30.221331
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-MX4 ********
+ID:                         185
+Health:                     000
+Eccentricity:               0.002261
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.972895
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5282.608627
+Right Ascen at TOA(rad):    1.386334
+Argument of Perigee(rad):   3.693213
+Mean Anom(rad):             30.919463
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-MX6 ********
+ID:                         186
+Health:                     000
+Eccentricity:               0.002261
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.972895
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5282.608627
+Right Ascen at TOA(rad):    1.386334
+Argument of Perigee(rad):   3.693213
+Mean Anom(rad):             31.617595
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-MX7 ********
+ID:                         187
+Health:                     000
+Eccentricity:               0.002261
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.972895
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5282.608627
+Right Ascen at TOA(rad):    1.386334
+Argument of Perigee(rad):   3.693213
+Mean Anom(rad):             32.315726
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-MX8 ********
+ID:                         188
+Health:                     000
+Eccentricity:               0.002261
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.972895
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5282.608627
+Right Ascen at TOA(rad):    1.386334
+Argument of Perigee(rad):   3.693213
+Mean Anom(rad):             33.013858
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-MX9 ********
+ID:                         189
+Health:                     000
+Eccentricity:               0.002261
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.972895
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5282.608627
+Right Ascen at TOA(rad):    1.386334
+Argument of Perigee(rad):   3.693213
+Mean Anom(rad):             33.711990
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-MX10 ********
+ID:                         190
+Health:                     000
+Eccentricity:               0.002261
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.972895
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5282.608627
+Right Ascen at TOA(rad):    1.386334
+Argument of Perigee(rad):   3.693213
+Mean Anom(rad):             34.410121
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-M5 ********
+ID:                         191
+Health:                     000
+Eccentricity:               0.003386
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.955601
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5282.437972
+Right Ascen at TOA(rad):    3.474842
+Argument of Perigee(rad):   3.032250
+Mean Anom(rad):             39.328968
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-MX11 ********
+ID:                         192
+Health:                     000
+Eccentricity:               0.003386
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.955601
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5282.437972
+Right Ascen at TOA(rad):    3.474842
+Argument of Perigee(rad):   3.032250
+Mean Anom(rad):             40.027100
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-MX12 ********
+ID:                         193
+Health:                     000
+Eccentricity:               0.003386
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.955601
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5282.437972
+Right Ascen at TOA(rad):    3.474842
+Argument of Perigee(rad):   3.032250
+Mean Anom(rad):             40.725232
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-MX13 ********
+ID:                         194
+Health:                     000
+Eccentricity:               0.003386
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.955601
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5282.437972
+Right Ascen at TOA(rad):    3.474842
+Argument of Perigee(rad):   3.032250
+Mean Anom(rad):             41.423364
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-MX14 ********
+ID:                         195
+Health:                     000
+Eccentricity:               0.003386
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.955601
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5282.437972
+Right Ascen at TOA(rad):    3.474842
+Argument of Perigee(rad):   3.032250
+Mean Anom(rad):             42.121495
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-MX15 ********
+ID:                         196
+Health:                     000
+Eccentricity:               0.003386
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.955601
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5282.437972
+Right Ascen at TOA(rad):    3.474842
+Argument of Perigee(rad):   3.032250
+Mean Anom(rad):             42.819627
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-MX16 ********
+ID:                         197
+Health:                     000
+Eccentricity:               0.003386
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.955601
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5282.437972
+Right Ascen at TOA(rad):    3.474842
+Argument of Perigee(rad):   3.032250
+Mean Anom(rad):             43.517759
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-MX17 ********
+ID:                         198
+Health:                     000
+Eccentricity:               0.003386
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.955601
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5282.437972
+Right Ascen at TOA(rad):    3.474842
+Argument of Perigee(rad):   3.032250
+Mean Anom(rad):             44.215890
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-MX18 ********
+ID:                         199
+Health:                     000
+Eccentricity:               0.003386
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.955601
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5282.437972
+Right Ascen at TOA(rad):    3.474842
+Argument of Perigee(rad):   3.032250
+Mean Anom(rad):             44.914022
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-MX19 ********
+ID:                         200
+Health:                     000
+Eccentricity:               0.003386
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.955601
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5282.437972
+Right Ascen at TOA(rad):    5.585054
+Argument of Perigee(rad):   3.032250
+Mean Anom(rad):             0.000000
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-MX20 ********
+ID:                         201
+Health:                     000
+Eccentricity:               0.003386
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.955601
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5282.437972
+Right Ascen at TOA(rad):    5.585054
+Argument of Perigee(rad):   3.032250
+Mean Anom(rad):             0.698132
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-MX21 ********
+ID:                         202
+Health:                     000
+Eccentricity:               0.003386
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.955601
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5282.437972
+Right Ascen at TOA(rad):    5.585054
+Argument of Perigee(rad):   3.032250
+Mean Anom(rad):             1.396263
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-MX22 ********
+ID:                         203
+Health:                     000
+Eccentricity:               0.003386
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.955601
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5282.437972
+Right Ascen at TOA(rad):    5.585054
+Argument of Perigee(rad):   3.032250
+Mean Anom(rad):             2.094395
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-MX23 ********
+ID:                         204
+Health:                     000
+Eccentricity:               0.003386
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.955601
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5282.437972
+Right Ascen at TOA(rad):    5.585054
+Argument of Perigee(rad):   3.032250
+Mean Anom(rad):             2.792527
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-MX24 ********
+ID:                         205
+Health:                     000
+Eccentricity:               0.003386
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.955601
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5282.437972
+Right Ascen at TOA(rad):    5.585054
+Argument of Perigee(rad):   3.032250
+Mean Anom(rad):             3.490659
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-MX25 ********
+ID:                         206
+Health:                     000
+Eccentricity:               0.003386
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.955601
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5282.437972
+Right Ascen at TOA(rad):    5.585054
+Argument of Perigee(rad):   3.032250
+Mean Anom(rad):             4.188790
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-MX26 ********
+ID:                         207
+Health:                     000
+Eccentricity:               0.003386
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.955601
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5282.437972
+Right Ascen at TOA(rad):    5.585054
+Argument of Perigee(rad):   3.032250
+Mean Anom(rad):             4.886922
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+
+******** Week  1846 almanac for BEI-MX27 ********
+ID:                         208
+Health:                     000
+Eccentricity:               0.003386
+Time of Applicability(s):   345616.000000
+Orbital Inclination(rad):   0.955601
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5282.437972
+Right Ascen at TOA(rad):    5.585054
+Argument of Perigee(rad):   3.032250
+Mean Anom(rad):             5.585054
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1846
+

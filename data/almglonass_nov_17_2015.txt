@@ -1,0 +1,360 @@
+******** Week  1871 almanac for GLO-2413(712) ********
+ID:                         1
+Health:                     000
+Eccentricity:               0.000536
+Time of Applicability(s):   172816.000000
+Orbital Inclination(rad):   1.101851
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5050.548926
+Right Ascen at TOA(rad):    3.450296
+Argument of Perigee(rad):   2.868995
+Mean Anom(rad):             30.597319
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1871
+
+******** Week  1871 almanac for GLO-2419(714) ********
+ID:                         2
+Health:                     000
+Eccentricity:               0.001413
+Time of Applicability(s):   172816.000000
+Orbital Inclination(rad):   1.138494
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5050.458363
+Right Ascen at TOA(rad):    1.489619
+Argument of Perigee(rad):   6.193070
+Mean Anom(rad):             20.947457
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1871
+
+******** Week  1871 almanac for GLO-2425(716) ********
+ID:                         3
+Health:                     000
+Eccentricity:               0.002164
+Time of Applicability(s):   172816.000000
+Orbital Inclination(rad):   1.147046
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5050.522975
+Right Ascen at TOA(rad):    5.660375
+Argument of Perigee(rad):   5.895539
+Mean Anom(rad):             28.638527
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1871
+
+******** Week  1871 almanac for GLO-2426(717) ********
+ID:                         4
+Health:                     000
+Eccentricity:               0.001716
+Time of Applicability(s):   172816.000000
+Orbital Inclination(rad):   1.147346
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5050.538135
+Right Ascen at TOA(rad):    5.661637
+Argument of Perigee(rad):   3.056038
+Mean Anom(rad):             29.076504
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1871
+
+******** Week  1871 almanac for GLO-2424(715) ********
+ID:                         5
+Health:                     000
+Eccentricity:               0.001663
+Time of Applicability(s):   172816.000000
+Orbital Inclination(rad):   1.147079
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5050.544676
+Right Ascen at TOA(rad):    5.660913
+Argument of Perigee(rad):   3.042753
+Mean Anom(rad):             38.461351
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1871
+
+******** Week  1871 almanac for GLO-2433(720) ********
+ID:                         6
+Health:                     000
+Eccentricity:               0.000206
+Time of Applicability(s):   172816.000000
+Orbital Inclination(rad):   1.138756
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5050.523449
+Right Ascen at TOA(rad):    1.485972
+Argument of Perigee(rad):   3.608974
+Mean Anom(rad):             34.269972
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1871
+
+******** Week  1871 almanac for GLO-2432(719) ********
+ID:                         7
+Health:                     000
+Eccentricity:               0.000980
+Time of Applicability(s):   172816.000000
+Orbital Inclination(rad):   1.138965
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5050.529263
+Right Ascen at TOA(rad):    1.486808
+Argument of Perigee(rad):   5.985280
+Mean Anom(rad):             24.813557
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1871
+
+******** Week  1871 almanac for GLO-2434(721) ********
+ID:                         8
+Health:                     000
+Eccentricity:               0.000226
+Time of Applicability(s):   172816.000000
+Orbital Inclination(rad):   1.140412
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5050.539644
+Right Ascen at TOA(rad):    5.650123
+Argument of Perigee(rad):   2.782626
+Mean Anom(rad):             26.960252
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1871
+
+******** Week  1871 almanac for GLO-2436(723) ********
+ID:                         9
+Health:                     000
+Eccentricity:               0.001674
+Time of Applicability(s):   172816.000000
+Orbital Inclination(rad):   1.140639
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5050.539359
+Right Ascen at TOA(rad):    5.650957
+Argument of Perigee(rad):   5.997143
+Mean Anom(rad):             25.351123
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1871
+
+******** Week  1871 almanac for GLO-2443(725) ********
+ID:                         10
+Health:                     000
+Eccentricity:               0.001954
+Time of Applicability(s):   172816.000000
+Orbital Inclination(rad):   1.137499
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5050.551154
+Right Ascen at TOA(rad):    1.475946
+Argument of Perigee(rad):   3.144342
+Mean Anom(rad):             26.840511
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1871
+
+******** Week  1871 almanac for GLO-2456(730) ********
+ID:                         11
+Health:                     000
+Eccentricity:               0.000411
+Time of Applicability(s):   172816.000000
+Orbital Inclination(rad):   1.120287
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5050.538269
+Right Ascen at TOA(rad):    3.549345
+Argument of Perigee(rad):   5.666533
+Mean Anom(rad):             27.016566
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1871
+
+******** Week  1871 almanac for GLO-2457(733) ********
+ID:                         12
+Health:                     000
+Eccentricity:               0.000674
+Time of Applicability(s):   172816.000000
+Orbital Inclination(rad):   1.119971
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5050.549045
+Right Ascen at TOA(rad):    3.548240
+Argument of Perigee(rad):   2.762854
+Mean Anom(rad):             25.928077
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1871
+
+******** Week  1871 almanac for GLO-2458(734) ********
+ID:                         13
+Health:                     000
+Eccentricity:               0.000174
+Time of Applicability(s):   172816.000000
+Orbital Inclination(rad):   1.120072
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5050.547370
+Right Ascen at TOA(rad):    3.548439
+Argument of Perigee(rad):   0.621608
+Mean Anom(rad):             28.892720
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1871
+
+******** Week  1871 almanac for GLO-2459(731) ********
+ID:                         14
+Health:                     000
+Eccentricity:               0.002677
+Time of Applicability(s):   172816.000000
+Orbital Inclination(rad):   1.137129
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5050.544257
+Right Ascen at TOA(rad):    1.471567
+Argument of Perigee(rad):   6.214257
+Mean Anom(rad):             29.347991
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1871
+
+******** Week  1871 almanac for GLO-2461(735) ********
+ID:                         15
+Health:                     000
+Eccentricity:               0.000731
+Time of Applicability(s):   172816.000000
+Orbital Inclination(rad):   1.137005
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5050.544178
+Right Ascen at TOA(rad):    1.471108
+Argument of Perigee(rad):   1.557139
+Mean Anom(rad):             26.160869
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1871
+
+******** Week  1871 almanac for GLO-2460(732) ********
+ID:                         16
+Health:                     000
+Eccentricity:               0.000220
+Time of Applicability(s):   172816.000000
+Orbital Inclination(rad):   1.136827
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5050.547101
+Right Ascen at TOA(rad):    1.471002
+Argument of Perigee(rad):   2.399419
+Mean Anom(rad):             32.337894
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1871
+
+******** Week  1871 almanac for GLO-2466(738) ********
+ID:                         17
+Health:                     000
+Eccentricity:               0.002009
+Time of Applicability(s):   172816.000000
+Orbital Inclination(rad):   1.133150
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5050.543333
+Right Ascen at TOA(rad):    5.654036
+Argument of Perigee(rad):   2.820344
+Mean Anom(rad):             30.825922
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1871
+
+******** Week  1871 almanac for GLO-2465(737) ********
+ID:                         18
+Health:                     000
+Eccentricity:               0.003509
+Time of Applicability(s):   172816.000000
+Orbital Inclination(rad):   1.133446
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5050.540394
+Right Ascen at TOA(rad):    5.655446
+Argument of Perigee(rad):   3.019882
+Mean Anom(rad):             33.810816
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1871
+
+******** Week  1871 almanac for GLO-2464(736) ********
+ID:                         19
+Health:                     000
+Eccentricity:               0.002059
+Time of Applicability(s):   172816.000000
+Orbital Inclination(rad):   1.133478
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5050.539122
+Right Ascen at TOA(rad):    5.655041
+Argument of Perigee(rad):   0.116852
+Mean Anom(rad):             26.496115
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1871
+
+******** Week  1871 almanac for GLO-2471(701K) ********
+ID:                         20
+Health:                     000
+Eccentricity:               0.000779
+Time of Applicability(s):   172816.000000
+Orbital Inclination(rad):   1.136794
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5050.539557
+Right Ascen at TOA(rad):    1.469827
+Argument of Perigee(rad):   3.878251
+Mean Anom(rad):             26.877315
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1871
+
+******** Week  1871 almanac for GLO-2474(742) ********
+ID:                         21
+Health:                     000
+Eccentricity:               0.000729
+Time of Applicability(s):   172816.000000
+Orbital Inclination(rad):   1.125945
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5050.546801
+Right Ascen at TOA(rad):    3.555353
+Argument of Perigee(rad):   4.424211
+Mean Anom(rad):             32.139704
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1871
+
+******** Week  1871 almanac for GLO-2476(744) ********
+ID:                         22
+Health:                     000
+Eccentricity:               0.001608
+Time of Applicability(s):   172816.000000
+Orbital Inclination(rad):   1.125594
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5050.545916
+Right Ascen at TOA(rad):    3.556354
+Argument of Perigee(rad):   4.331534
+Mean Anom(rad):             20.464317
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1871
+
+******** Week  1871 almanac for GLO-2477(745) ********
+ID:                         23
+Health:                     000
+Eccentricity:               0.001406
+Time of Applicability(s):   172816.000000
+Orbital Inclination(rad):   1.125739
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5050.546627
+Right Ascen at TOA(rad):    3.557220
+Argument of Perigee(rad):   4.355487
+Mean Anom(rad):             29.855087
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1871
+
+******** Week  1871 almanac for GLO-2475(743) ********
+ID:                         24
+Health:                     000
+Eccentricity:               0.001979
+Time of Applicability(s):   172816.000000
+Orbital Inclination(rad):   1.125870
+Rate of Right Ascen(r/s):   0.000000
+SQRT(A)  (m 1/2):           5050.544139
+Right Ascen at TOA(rad):    3.556993
+Argument of Perigee(rad):   4.853609
+Mean Anom(rad):             28.589188
+Af0(s):                     0.000000E+00
+Af1(s/s):                   0.000000E+00
+week:                       1871
+
